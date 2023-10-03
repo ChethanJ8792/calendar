@@ -4,4 +4,4 @@ import calendar
 # mm = int(input("Enter month: "))  
   
 # display the calendar  
-print(calendar.month(2023,09))  
+print(calendar.month(2023,9))  
