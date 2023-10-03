@@ -1,4 +1,4 @@
-import calendar  
+import os
 # Enter the month and year  
 yy = int(input("Enter year: "))  
 mm = int(input("Enter month: "))  
